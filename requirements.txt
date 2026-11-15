@@ -1,0 +1,12 @@
+# Dynamically Growing Neural Networks on MNIST
+# Tested on Kaggle (Python 3, NVIDIA Tesla T4 GPU, November 2026).
+# For GPU support, install the PyTorch build that matches your CUDA version:
+# https://pytorch.org/get-started/locally/
+
+torch>=2.0
+torchvision>=0.15
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+ipython>=8.0
+notebook>=7.0
